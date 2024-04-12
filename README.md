@@ -9,3 +9,4 @@ Bar. Bar. Foo.
 ## Feat
 
 New feature!
+Bugfix!
