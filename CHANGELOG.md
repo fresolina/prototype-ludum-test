@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/fresolina/prototype-ludum-test/compare/v1.1.0...v1.1.1) (2024-04-12)
+
+
+### Bug Fixes
+
+* license poop force release ([c790f82](https://github.com/fresolina/prototype-ludum-test/commit/c790f82c3427ad0d760b505fb016b236d8464613))
+
 ## [1.1.0](https://github.com/fresolina/prototype-ludum-test/compare/v1.0.0...v1.1.0) (2024-04-12)
 
 
