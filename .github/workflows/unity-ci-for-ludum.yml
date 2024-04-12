@@ -1,6 +1,6 @@
 name: Build and Deploy to GitHub Pages / Itch.io
 
-on: [pull_request]
+on: [push, pull_request]
 
 jobs:
   build:
