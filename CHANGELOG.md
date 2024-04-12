@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/fresolina/prototype-ludum-test/compare/v1.0.0...v1.1.0) (2024-04-12)
+
+
+### Features
+
+* Player can now walk ([860dc60](https://github.com/fresolina/prototype-ludum-test/commit/860dc6047337e53ce92373e422cf5ade1b127bbb))
+
+
+### Bug Fixes
+
+* Player could not walk left ([974e6d4](https://github.com/fresolina/prototype-ludum-test/commit/974e6d44ba45e7efd8a288df1faa7da860c649b0))
+
 ## 1.0.0 (2024-04-12)
 
 
