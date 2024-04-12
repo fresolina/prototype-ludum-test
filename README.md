@@ -4,4 +4,4 @@ Automate release please.
 
 ## Foo
 
-Bar. Bar.
+Bar. Bar. Foo.
