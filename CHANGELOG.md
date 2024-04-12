@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.2](https://github.com/fresolina/prototype-ludum-test/compare/v1.1.1...v1.1.2) (2024-04-12)
+
+
+### Bug Fixes
+
+* build it ([#5](https://github.com/fresolina/prototype-ludum-test/issues/5)) ([b3d6a30](https://github.com/fresolina/prototype-ludum-test/commit/b3d6a303d662f9d0c5b864245facaeae61378e41))
+* run gameci try 2 ([3c53949](https://github.com/fresolina/prototype-ludum-test/commit/3c53949b98a84d596adf92f31d7bd03f9ad3ec87))
+
 ## [1.1.1](https://github.com/fresolina/prototype-ludum-test/compare/v1.1.0...v1.1.1) (2024-04-12)
 
 
