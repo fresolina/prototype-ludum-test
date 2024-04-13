@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/fresolina/prototype-ludum-test/compare/v1.1.2...v1.1.3) (2024-04-13)
+
+
+### Bug Fixes
+
+* foo ([7ea1800](https://github.com/fresolina/prototype-ludum-test/commit/7ea18000889f2a708cdc612d4bbaf4f5872a1de8))
+
 ## [1.1.2](https://github.com/fresolina/prototype-ludum-test/compare/v1.1.1...v1.1.2) (2024-04-12)
 
 
