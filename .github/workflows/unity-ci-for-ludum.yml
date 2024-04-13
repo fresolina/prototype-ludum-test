@@ -1,4 +1,4 @@
-name: Build and Deploy to GitHub Pages / Itch.io
+name: Build and Deploy to Itch.io
 
 on: push
 
@@ -36,3 +36,12 @@ jobs:
         with:
           name: Build
           path: build
+
+      # Deploy to Itch
+      - uses: manleydev/butler-publish-itchio-action@master
+        env:
+          BUTLER_CREDENTIALS: ${{ secrets.BUTLER_CREDENTIALS }}
+          CHANNEL: html5
+          ITCH_GAME: prototype-test-auto-upload
+          ITCH_USER: umesweden
+          PACKAGE: build/WebGL
